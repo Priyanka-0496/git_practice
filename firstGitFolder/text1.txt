@@ -1,1 +1,2 @@
-This is a new file.
+This is a new file.  --line added in local file and  then file added to git and pushed to github
+This line added from github repo directly .
